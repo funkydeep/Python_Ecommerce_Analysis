@@ -1,0 +1,6 @@
+customer_id,name,gender,city,state,signup_date
+1001,Arjun Kapoor,Male,Mumbai,Maharashtra,2021-01-18
+1002,Swati Sharma,Female,Delhi,Delhi,2021-02-22
+1003,Rituparna Sen,Female,Kolkata,West Bengal,2021-02-02
+1004,Vikram Patel,Male,Ahmedabad,Gujarat,2021-03-11
+1005,Mahesh Rao,Male,Bengaluru,Karnataka,2021-05-03
